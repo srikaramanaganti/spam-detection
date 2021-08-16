@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px)
+{
+#log{
+    position:absolute;
+    left:74%;
+    padding:2px;
+}
+}
